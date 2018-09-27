@@ -50,6 +50,7 @@ public class Loan {
 		double interestSpent = totalSpent-(carCost - downPayment) ;
 		
 		return interestSpent;
+		
 	}
 	
 }
